@@ -175,6 +175,9 @@ public class Study
     if (getStudyCode().startsWith("XY")) {
       return "images/computer.jpg";
     }
+    if (getStudyCode().startsWith("XY")) {
+        return "images/computer.jpg";
+      }
     if (getStudyCode().startsWith("X")) {
       return "images/computer.jpg";
     }
