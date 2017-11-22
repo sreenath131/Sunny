@@ -31,7 +31,7 @@
 
 <%-- Section tag is used to write description  --%>
 <section class="main">
-    <h3>About us</h3>
+    <h3>About us...</h3>
     <p>Researchers Exchange Participations is a platform for researchers 
         to exchange participations</p>
     <p>The aim of this platform is to encourage researchers participate in each others
